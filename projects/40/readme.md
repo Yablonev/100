@@ -1,5 +1,7 @@
 ## Video player
 
 ```bash
-This project is one of 100 Projects Challenge
+This project is 40 of #100_Projects_Challenge
 ```
+
+[DEMO](https://100.yablonev.art/40)
