@@ -2,7 +2,7 @@
 
 ## Rules
 ```bash
-each new challenge is more difficult than the previous one
+Each new challenge is more difficult than the previous one
 ```
 
 ## List of projects
@@ -58,6 +58,8 @@ each new challenge is more difficult than the previous one
 50. shortest path problem with custom knots
 
 ## Folders structure
-- 1-100 folders -- projects
-- Shared -- reusable stuff
-- Notes -- list
+```python
+1-100 # Folders projects 
+Shared # Reusable stuff
+Notes # List
+```
