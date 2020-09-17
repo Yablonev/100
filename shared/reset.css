@@ -1,0 +1,58 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, :after, :before {
+	box-sizing: inherit;
+}
+
+* {
+	outline: none;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	user-select: none;
+	-webkit-user-drag: none;
+}
+
+a {
+	-webkit-user-drag: none;
+	cursor: pointer;
+	color: inherit;
+}
+
+a:-webkit-any-link {
+	text-decoration: none;
+}
+
+button {
+	border: none;
+	cursor: pointer;
+}
+
+button:focus, img:focus, p:focus {
+	outline: none;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
