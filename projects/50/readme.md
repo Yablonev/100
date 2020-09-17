@@ -1,3 +1,7 @@
-## This project is one of 100 Projects Challenge
+## Shortest path problem with custom knots
 
-### X, Y Mouse Move Logger
+```bash
+This project is 50 of #100_Projects_Challenge
+```
+
+[DEMO](https://100.yablonev.art/50)
