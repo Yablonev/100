@@ -1,4 +1,4 @@
-# 100 Project challenge
+# 100 Projects challenge
 
 ## Rules
 ```bash
