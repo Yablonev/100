@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Video editor
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## hello { person.anime.name } anime input-syntax support
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

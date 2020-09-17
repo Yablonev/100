@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Check the similarity of the two commands in different conditions
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

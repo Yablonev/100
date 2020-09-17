@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Booking seats in some kind of event (plane, cinema), with a top view and other things
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

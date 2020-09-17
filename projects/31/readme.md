@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Stream and widgets on top of it (Web RTC)
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

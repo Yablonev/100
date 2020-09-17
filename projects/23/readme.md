@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Password generator based on user cursor movement
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

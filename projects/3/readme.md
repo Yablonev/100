@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## A virtual keyboard which emulates pressed buttons
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

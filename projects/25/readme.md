@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Tracker of English letters among Russians and vice versa
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

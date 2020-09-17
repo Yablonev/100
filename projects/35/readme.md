@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Animation of bouncing balls out of the cursor
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Tips to emoji
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

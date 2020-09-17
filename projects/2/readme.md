@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Logging KeyCode and other useful information about pressed button
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

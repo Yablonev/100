@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Custom hot keys and actions
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```

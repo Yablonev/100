@@ -1,3 +1,5 @@
-## This project is one of 100 Projects Challenge
+## Text to image constructor with font-family, font-size settings
 
-### X, Y Mouse Move Logger
+```bash
+This project is one of 100 Projects Challenge
+```
